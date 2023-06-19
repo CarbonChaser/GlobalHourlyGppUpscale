@@ -1,6 +1,6 @@
 # Upscale Global Hourly GPP through Temporal Fusion Transformer
 
-Authors: John Calzaretta[^*], Mary Chau[^*], Rumi Nakagawa[^*]
+Authors: Rumi Nakagawa[^*], Mary Chau[^*], John Calzaretta[^*], 
 
 UC Berkeley iSchool MIDS program: Capstone Spring 2023
 
